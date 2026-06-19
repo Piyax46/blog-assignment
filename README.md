@@ -2,12 +2,6 @@
 
 Deployed site: https://metier-blog-assignment.pages.dev/
 
-Part 1 video script: `PART1_SCRIPT.md`
-
-Part 1 PowerPoint slides: `Part1_Process_Optimization_Slides.pptx`
-
-Part 1 slide notes: `PART1_SLIDE_NOTES.md`
-
 Admin demo account:
 
 - Username: `admin`
