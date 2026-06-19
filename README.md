@@ -2,6 +2,8 @@
 
 Deployed site: https://metier-blog-assignment.pages.dev/
 
+Part 1 video script: `PART1_SCRIPT.md`
+
 Admin demo account:
 
 - Username: `admin`
