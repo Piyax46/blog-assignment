@@ -31,7 +31,6 @@ function shell(content, route) {
       <header class="topbar">
         <div class="topbar-inner">
           <a class="brand" href="#/blogs" aria-label="กลับหน้าบทความ">
-            <span class="brand-mark">MB</span>
             <span>Metier Blog Assignment</span>
           </a>
           ${
